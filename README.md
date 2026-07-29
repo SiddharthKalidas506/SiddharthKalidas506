@@ -9,8 +9,6 @@
 
 - 👨‍💻 I've previously worked in **Amazon Ltd and HCl Technologies**
 
-- 🌱 I’m currently learning **Golang**
-
 - 💬 Ask me about **Java, Spring, Databases, Selenium, Restassured and TypeScript**
 
 - 📫 How to reach me **siddharthkalidas506@gmail.com**
