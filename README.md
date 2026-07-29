@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kalidas</h1>
-<h3 align="center">I am a passionate Fullstack Developer and software engineer from India. As a versatilist, I easily adapt to different roles (Full Stack backend Developer 👨🏻‍💻 or beginner-level Golang Developer 👶) depending on project requirements. I love exploring new tech stacks 💻 and leveraging them to build innovative solutions 🛠️</h3>
+<h3 align="center">I am a passionate Fullstack Developer and software engineer from India. As a versatilist, I easily adapt to different roles (Full Stack backend Developer 👨🏻‍💻) depending on project requirements. I love exploring new tech stacks 💻 and leveraging them to build innovative solutions 🛠️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthkalidas506&label=Profile%20visited&color=0e75b6&style=flat" alt="siddharthkalidas506" /> </p>
 
